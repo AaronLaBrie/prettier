@@ -1,0 +1,12 @@
+{
+  "name": "@aaronlabrie/prettier",
+  "version": "1.0.0",
+  "description": "Shared Prettier Config",
+  "main": "index.json",
+  "repository": "git@github.com:aaronlabrie/prettier.git",
+  "author": "aaronlabrie <aaron@aaronlabrie.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "2.x"
+  }
+}
